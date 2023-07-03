@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CodeWars.iml" filepath="$PROJECT_DIR$/.idea/CodeWars.iml" />
       <module fileurl="file://$PROJECT_DIR$/CountingDuplicates/CountingDuplicates.iml" filepath="$PROJECT_DIR$/CountingDuplicates/CountingDuplicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnoughIsEnough/EnoughIsEnough.iml" filepath="$PROJECT_DIR$/EnoughIsEnough/EnoughIsEnough.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindNextPerfectSquare/FindNextPerfectSquare.iml" filepath="$PROJECT_DIR$/FindNextPerfectSquare/FindNextPerfectSquare.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Isograms/Isograms.iml" filepath="$PROJECT_DIR$/Isograms/Isograms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Money/Money.iml" filepath="$PROJECT_DIR$/Money/Money.iml" />
